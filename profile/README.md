@@ -18,36 +18,36 @@ The I Know My LLM manifesto offers **8 actionable principles** to help you evalu
 8. **Leverage Instincts and Community** — Trust your gut and collective wisdom
 
 **Read the Full Principles**  
-https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/blob/main/github-repo-template/PRINCIPLES.md
+[PRINCIPLES.md](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/blob/main/github-repo-template/PRINCIPLES.md)
 
 ## Sign the Manifesto
 
 Add your name to show your support:
 
-- Visit the Signatures page: https://iknowmyllm.com
+- Visit the Signatures page: [iknowmyllm.com](https://iknowmyllm.com)
 - Or contribute via Pull Request:
-  - Fork the manifesto repo: https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto
+  - Fork the manifesto repo: [github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto)
   - Edit `public/signatures.csv`
   - Submit a Pull Request
 
-**Privacy options**
-- Use `Anonymous` for privacy
-- Leave email/title empty if preferred
-- Add optional comments
+**Privacy options**  
+- Use `Anonymous` for privacy  
+- Leave email/title empty if preferred  
+- Add optional comments  
 
 **Full signing instructions**  
-https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/blob/main/github-repo-template/SIGNATORIES.md
+[SIGNATORIES.md](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/blob/main/github-repo-template/SIGNATORIES.md)
 
 ## Get Involved
 
-- **Sign the Manifesto** — https://iknowmyllm.com
-- **Contribute Principles** — https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/issues
-- **Share Your Story** — https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/discussions
-- **Code of Conduct** — https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/blob/main/github-repo-template/CODE_OF_CONDUCT.md
+- **Sign the Manifesto** — [iknowmyllm.com](https://iknowmyllm.com)  
+- **Contribute Principles** — [Issues](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/issues)  
+- **Share Your Story** — [Discussions](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/discussions)  
+- **Code of Conduct** — [CODE_OF_CONDUCT.md](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/blob/main/github-repo-template/CODE_OF_CONDUCT.md)
 
 ## Join Our Growing Community
 
-See who else has signed on: https://iknowmyllm.com
+See who else has signed on: [iknowmyllm.com](https://iknowmyllm.com)
 
 ## Important Disclaimer
 
@@ -55,5 +55,5 @@ Educational only — not legal advice. We are here to help you uncover better wa
 
 ---
 
-**License:** https://creativecommons.org/licenses/by/4.0/  
-**Website:** https://iknowmyllm.com
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
+**Website:** [iknowmyllm.com](https://iknowmyllm.com)
