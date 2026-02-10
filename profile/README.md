@@ -1,10 +1,11 @@
-<div style="text-align: left;">
-<img src="https://raw.githubusercontent.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/refs/heads/main/public/logo.png" alt="I Know My LLM Logo" width="200">
-</div>
-
 # Welcome to I Know My LLM
 
 We are a community manifesto for spotting hype and promoting trustworthy AI platforms. We prioritize **Evidence over Promises**, **Transparency over Hype**, and **Accountability over Obscurity**.
+
+<div style="text-align: left;">
+<img src="https://raw.githubusercontent.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/refs/heads/main/public/logo.png" alt="I Know My LLM Logo" width="100">
+</div>
+
 
 ## What We Do
 
