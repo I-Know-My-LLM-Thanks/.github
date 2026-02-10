@@ -1,4 +1,6 @@
-![I Know My LLM Logo](https://raw.githubusercontent.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/refs/heads/main/public/logo.png)
+<div style="text-align: left;">
+<img src="https://raw.githubusercontent.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/refs/heads/main/public/logo.png" alt="I Know My LLM Logo" width="200">
+</div>
 
 # Welcome to I Know My LLM
 
