@@ -21,7 +21,7 @@ The I Know My LLM manifesto offers **8 actionable principles** to help you evalu
 8. **Leverage Instincts and Community** — Trust your gut and collective wisdom
 
 **Read the Full Principles**  
-[PRINCIPLES.md](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/blob/main/github-repo-template/PRINCIPLES.md)
+[PRINCIPLES.md](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/blob/main/PRINCIPLES.md)
 
 ## Sign the Manifesto
 
@@ -39,14 +39,14 @@ Add your name to show your support:
 - Add optional comments  
 
 **Full signing instructions**  
-[SIGNATORIES.md](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/blob/main/github-repo-template/SIGNATORIES.md)
+[CONTRIBUTING.md](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/blob/main/CONTRIBUTING.md)
 
 ## Get Involved
 
-- **Sign the Manifesto** — [iknowmyllm.com](https://iknowmyllm.com)  
-- **Contribute Principles** — [Issues](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/issues)  
-- **Share Your Story** — [Discussions](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/discussions)  
-- **Code of Conduct** — [CODE_OF_CONDUCT.md](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/blob/main/github-repo-template/CODE_OF_CONDUCT.md)
+- **Sign the Manifesto** — [Github Issues](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/issues/new?template=signature-request.md)  
+- **Contribute Principles** — [Github Issues](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/issues/new?template=signature-request.md)  
+- **Share Your Story** — [Github Issues](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/issues/new?template=signature-request.md)  
+- **Code of Conduct** — [CODE_OF_CONDUCT.md](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/blob/main/CODE_OF_CONDUCT.md)
 
 ## Join Our Growing Community
 
