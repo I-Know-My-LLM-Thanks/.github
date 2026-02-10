@@ -2,11 +2,6 @@
 
 We are a community manifesto for spotting hype and promoting trustworthy AI platforms. We prioritize **Evidence over Promises**, **Transparency over Hype**, and **Accountability over Obscurity**.
 
-<div style="text-align: left;">
-<img src="https://raw.githubusercontent.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/refs/heads/main/public/logo.png" alt="I Know My LLM Logo" width="100">
-</div>
-
-
 ## What We Do
 
 The I Know My LLM manifesto offers **8 actionable principles** to help you evaluate AI platforms and protect yourself from fraud:
@@ -28,10 +23,6 @@ The I Know My LLM manifesto offers **8 actionable principles** to help you evalu
 Add your name to show your support:
 
 - Visit the Signatures page: [iknowmyllm.com](https://iknowmyllm.com)
-- Or contribute via Pull Request:
-  - Fork the manifesto repo: [github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto)
-  - Edit `public/signatures.csv`
-  - Submit a Pull Request
 
 **Privacy options**  
 - Use `Anonymous` for privacy  
@@ -57,6 +48,11 @@ See who else has signed on: [iknowmyllm.com](https://iknowmyllm.com)
 Educational only — not legal advice. We are here to help you uncover better ways to evaluate AI platforms together.
 
 ---
+
+<div style="text-align: left;">
+<img src="https://raw.githubusercontent.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/refs/heads/main/public/logo.png" alt="I Know My LLM Logo" width="100">
+</div>
+
 
 **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)  
 **Website:** [iknowmyllm.com](https://iknowmyllm.com)
