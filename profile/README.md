@@ -18,11 +18,16 @@ The I Know My LLM manifesto offers **8 actionable principles** to help you evalu
 **Read the Full Principles**  
 [PRINCIPLES.md](https://github.com/I-Know-My-LLM-Thanks/iknowmyllm_manifesto/blob/main/PRINCIPLES.md)
 
-## Sign the Manifesto
+## ✍️ Sign the Manifesto
 
 Add your name to show your support:
 
 - Visit the Signatures page: [iknowmyllm.com](https://iknowmyllm.com)
+
+or add your signature using either option:
+
+- **Google Form**: https://forms.gle/3xKuRVxmhV6pUiL76
+- **GitHub Issue**: https://github.com/I-Know-My-Own-LLM/iknowmyownllm_manifesto/issues/new?template=signature-and-redflag-request.md
 
 **Privacy options**  
 - Use `Anonymous` for privacy  
